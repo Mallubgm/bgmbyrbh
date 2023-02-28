@@ -1,0 +1,15 @@
+.body{
+  margin: 0;
+}
+a{
+  text-decoration: none;
+  color: black;
+  background-color: yellow;
+  font-family:Sans-Serif bold;
+ 
+}
+h1{
+  color: White;
+  background-color: Black;
+  border-radius: 5px;
+}
